@@ -1,0 +1,72 @@
+[
+    {
+      "testcases": [
+        {
+          "name": "fe_d1_testcase1",
+          "weightage": 0.1
+        },
+        {
+          "name": "fe_d1_testcase2",
+          "weightage": 0.1
+        },
+        {
+          "name": "fe_d1_testcase3",
+          "weightage": 0.1
+        },
+        {
+          "name": "fe_d1_testcase4",
+          "weightage": 0.1
+        },
+        {
+          "name": "fe_d1_testcase5",
+          "weightage": 0.1
+        },
+        {
+          "name": "fe_d1_testcase6",
+          "weightage": 0.1
+        },
+        {
+          "name": "fe_d1_testcase7",
+          "weightage": 0.05
+        },
+        {
+          "name": "fe_d1_testcase8",
+          "weightage": 0.05
+        },
+        {
+          "name": "fe_d1_testcase9",
+          "weightage": 0.05
+        },
+        {
+          "name": "fe_d1_testcase10",
+          "weightage": 0.05
+        },
+        {
+          "name": "fe_d1_testcase11",
+          "weightage": 0.05
+        },
+        {
+          "name": "fe_d1_testcase12",
+          "weightage": 0.05
+        }
+      ],
+      "testcase_path": "/home/coder/project/workspace/react",
+      "evaluation_type": "React Jest",
+      "testcase_run_command": "sh /home/coder/project/workspace/react/react.sh"
+    },
+    {
+      "testcases": [
+        {
+          "name": "test_case6",
+          "weightage": 0.05
+        },
+        {
+          "name": "test_case7",
+          "weightage": 0.05
+        }
+      ],
+      "testcase_path": "/home/coder/project/workspace/puppeteer",
+      "evaluation_type": "Puppeteer",
+      "testcase_run_command": "node /home/coder/project/workspace/puppeteer/test.js"
+    }
+  ]

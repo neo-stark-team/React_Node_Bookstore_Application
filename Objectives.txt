@@ -1,0 +1,217 @@
+Objective: 
+
+
+
+Neo Book Store is an online Application to be built as a product that can be useful to various customers who want to purchase a book online. 
+
+
+
+
+
+
+
+Users of the System: 
+
+
+
+Admin 
+
+Customer 
+
+
+
+
+
+Functional Requirements: 
+
+
+
+Build an application that customers can access and purchase the best books written by renounced authors online. 
+
+The application should have a signup, login, profile, dashboard page, and product page. 
+
+This application should have a provision to maintain a database for customer information, order information, and product portfolio. 
+
+Also, an integrated platform is required for admin and customers. 
+
+Administration module to include options for adding / modifying / removing the existing book(s) and customer management. 
+
+Users can order only if the stock quantity is available. 
+
+
+
+
+
+Front End 
+
+
+
+React 16+ 
+
+Google Material Design  
+
+Bootstrap / Bulma 
+
+
+
+
+
+Server Side 
+
+
+
+node version 10+
+
+npm version 6+
+
+
+
+
+
+Database 
+
+
+
+MySQL or H2  
+
+
+
+
+
+React:
+
+
+
+In the terminal window type 'cd reactapp'
+
+
+
+To install dependency run 'npm install'
+
+
+
+To start/run the application 'npm start'
+
+
+
+
+
+
+
+Node:
+
+
+
+In the new terminal window go to the project file 'cd nodeapp'
+
+
+
+To install dependency run 'npm install'
+
+
+
+To start/run the application 'npm start'
+
+
+
+
+
+
+
+API Endpoint
+
+
+
+Click port 8080 and use that URL as API Endpoint for React.
+
+
+
+
+
+
+
+MySQL Setup:
+
+
+
+mysql -u root --protocol=tcp -p
+
+
+
+password: examly
+
+
+
+To create a database:
+
+
+
+create database database_name.
+
+
+
+
+
+
+
+Git Commands:
+
+
+
+To add the changes
+
+
+
+git add ./reactapp/
+
+
+
+git add ./nodeapp/
+
+
+
+
+
+
+
+To commit the changes
+
+
+
+git commit -m "commit message"
+
+
+
+
+
+
+
+To create a new branch
+
+
+
+git branch -m branch_name
+
+
+
+
+
+
+
+To push the code in repo
+
+
+
+git push -u origin branch_name
+
+
+
+
+
+
+
+To Pull the previous code
+
+
+
+git pull origin branch_name
